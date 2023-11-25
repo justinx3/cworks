@@ -13,7 +13,7 @@ for(i=0;i<l;i++)
 printf("Array\n");
 for(i=0;i<l;i++)
     {
-    printf("%d",a[i]);
+    printf(" %d",a[i]);
     }
 for(i=0;i<l-1;i++)
     {
@@ -30,7 +30,7 @@ for(i=0;i<l-1;i++)
 printf("\n Sorted array:");
 for(i=0;i<l;i++)
 	{
-	printf("\n%d",a[i]);
+	printf(" %d",a[i]);
 	}
 printf("\nENTER ELEMENTS TO SEARCH:");
 scanf("%d",&s);
